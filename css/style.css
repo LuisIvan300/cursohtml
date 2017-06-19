@@ -1,0 +1,35 @@
+body{
+  background-image: url('../img/linux.png'); 
+  background-repeat: no-repeat;
+  background-size: 90%;
+  background-position: center;
+}
+
+table{
+  background-color: rgba(255,255,255,0.3);
+  margin: 50px;
+}
+
+td{
+  border-style: inset;
+  color: grey;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.black{
+  background-color: #808080;
+}
+
+.grey{
+  background-color: #404040;
+}
+
+#alinear{
+	text-align: center;
+}	
+
+
