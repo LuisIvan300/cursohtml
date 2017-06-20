@@ -1,9 +1,3 @@
-body{
-  background-image: url('../img/linux.png'); 
-  background-repeat: no-repeat;
-  background-size: 90%;
-  background-position: center;
-}
 
 table{
   background-color: rgba(255,255,255,0.3);
@@ -32,4 +26,10 @@ a{
 	text-align: center;
 }	
 
-
+#bodyinicio{
+  background-image: url('../img/linux.png'); 
+  background-repeat: no-repeat;
+  background-size: 90%;
+  background-position: center;
+}
+		
